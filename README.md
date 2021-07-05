@@ -1,6 +1,6 @@
 ### :man: Hello, I am Chinmay Karmokar, and here is a little bit about myself.
 
-- :bulb: Electrical ENgineering Student.
+- :bulb: Electrical Engineering Student.
 
 - :iphone: Tech enthusiast. Android and iOS.
 
