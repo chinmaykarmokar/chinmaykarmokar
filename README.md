@@ -12,6 +12,6 @@
 
 - :star: Fun Fact: Likes Football :soccer:
 
-- 🔭 I’m currently working on: https://todobychinmay.herokuapp.com/
+- 🔭 I’m currently working on: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a>
 
 - :pencil: Projects: https://todobychinmay.herokuapp.com/ , https://covinfoin.herokuapp.com/ , https://chinmaykarmokar.github.io/fonts/#/ , https://fightwithcovid.github.io/ , https://chinmaykarmokar.github.io/weatherapp/
