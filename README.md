@@ -12,6 +12,6 @@
 
 - 🔭 I’m currently working on: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a>
 
-- :pencil: Projects: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a> , <a href="https://covinfoin.herokuapp.com/">Covinfo</a> , <a href="https://chinmaykarmokar.github.io/fonts/#/">Fonts Bay</a> , <a href="https://fightwithcovid.github.io/">Fight Covid</a> , <a href="https://chinmaykarmokar.github.io/weatherapp/>Weather</a>, <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174/">LinkedIn</a>
+- :pencil: Projects: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a> , <a href="https://covinfoin.herokuapp.com/">Covinfo</a> , <a href="https://chinmaykarmokar.github.io/fonts/#/">Fonts Bay</a> , <a href="https://fightwithcovid.github.io/">Fight Covid</a> , <a href="https://chinmaykarmokar.github.io/weatherapp/>Weather</a>, <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174">LinkedIn</a>
 
 - :star: Fun Fact: Likes Football :soccer:
