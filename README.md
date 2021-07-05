@@ -4,14 +4,14 @@
 
 - :iphone: Tech enthusiast. Android and iOS.
 
-- :computer: I work with ### JavaScript.
+- :computer: I work with <b>JavaScript</b>.
 
-- 🌱 I’m currently learning ### Node.js and I look forward to work with it.
+- 🌱 I’m currently learning <b>Node.js</b> and I look forward to work with it.
 
 - :email: How to reach me: chinmaykarmokar@gmail.com
 
-- :star: Fun Fact: Likes Football :soccer:
-
 - 🔭 I’m currently working on: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a>
 
-- :pencil: Projects: https://todobychinmay.herokuapp.com/ , https://covinfoin.herokuapp.com/ , https://chinmaykarmokar.github.io/fonts/#/ , https://fightwithcovid.github.io/ , https://chinmaykarmokar.github.io/weatherapp/
+- :pencil: Projects: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a> , <a href="https://covinfoin.herokuapp.com/">Covinfo</a> , <a href="https://chinmaykarmokar.github.io/fonts/#/">Fonts Bay</a> , <a href="https://fightwithcovid.github.io/">Fight Covid</a> , <a href="https://chinmaykarmokar.github.io/weatherapp/>Weather</a>, <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174/">LinkedIn</a>
+
+  - :star: Fun Fact: Likes Football :soccer:
