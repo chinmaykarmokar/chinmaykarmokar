@@ -18,4 +18,11 @@
 
 - :star: Fun Fact: Likes Football :soccer:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true)
+<img class="stats" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true">
+
+<style>
+  .stats {
+    border: none,
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+  }
+</style>
