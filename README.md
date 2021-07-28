@@ -18,4 +18,4 @@
 
 - :star: Fun Fact: Likes Football :soccer:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true)
