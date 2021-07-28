@@ -27,7 +27,7 @@
 
 <div>
   <img align="left" width="300" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif">
-  <div>
+  
     <h3>Frontend</h3>
     <img src="https://img.icons8.com/officel/50/000000/react.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -43,7 +43,7 @@
     <img src="https://img.icons8.com/color/48/000000/npm.png"/> &nbsp;
     <br/>
     <h3>Other Tools</h3>
-  </div>
+  
 </div>
 
 <br/>
