@@ -1,4 +1,4 @@
-<h1 align="center">:man: Hello, I am Chinmay Karmokar, and here is a little bit about myself.</h1>
+<h1 align="center">:man: Hello, I am Chinmay Karmokar, & here is a little bit about myself.</h1>
 
 - :bulb: Electrical Engineering Student.
 
