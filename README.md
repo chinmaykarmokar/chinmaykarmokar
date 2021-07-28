@@ -1,6 +1,7 @@
 <h1 align="center">:man: Hello, I am Chinmay Karmokar, & here's a bit about myself.</h1>
 
 <div>
+  <img width="300" height="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
   - :bulb: Electrical Engineering Student.
 
 - :iphone: Tech enthusiast. Android and iOS.
@@ -18,7 +19,6 @@
 - :file_folder: My LinkedIn Profile: <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174">LinkedIn</a>
 
 - :star: Fun Fact: Likes Football :soccer:
-  <img width="300" height="200" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 </div>
 
 <div>
