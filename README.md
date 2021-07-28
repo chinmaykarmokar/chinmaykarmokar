@@ -1,6 +1,7 @@
 <h1 align="center">:man: Hello, I am Chinmay Karmokar, & here's a bit about myself.</h1>
 
-- :bulb: Electrical Engineering Student.
+<div>
+  - :bulb: Electrical Engineering Student.
 
 - :iphone: Tech enthusiast. Android and iOS.
 
@@ -17,6 +18,9 @@
 - :file_folder: My LinkedIn Profile: <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174">LinkedIn</a>
 
 - :star: Fun Fact: Likes Football :soccer:
+  <img align="right" src="https://tenor.com/view/programmer-gif-19019116">
+</div>
+
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs hide_border">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar&layout=compact&hide=issues,contribs hide_border">
