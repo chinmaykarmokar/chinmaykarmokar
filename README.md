@@ -22,6 +22,15 @@
 </div>
 
 <br/>
+
+<h2><i>Stack</i></h2>
+
+<div>
+  <img align="left" width="300" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif">
+</div>
+
+<br/>
+
 <h2>:gear: <i>Statistics</i></h2>
 
 <div>
