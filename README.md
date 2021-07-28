@@ -41,7 +41,6 @@
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/npm.png"/> &nbsp;
-    <p>express</p>
     <br/>
     <h3>Other Tools</h3>
   </div>
