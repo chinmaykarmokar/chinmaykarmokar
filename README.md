@@ -18,6 +18,6 @@
 
 - :star: Fun Fact: Likes Football :soccer:
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true" &hide_border>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar&layout=compact" &hide_border>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs&hide_border">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar&layout=compact&hide=issues,contribs&hide_border">
 </div>
