@@ -1,7 +1,7 @@
 <h1 align="center">:man: Hello, I am Chinmay Karmokar, & here's a bit about myself.</h1>
 
 <div>
-  <img align="right" width="300" height="200" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
+  <img align="right" width="400" height="300" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
   - :bulb: Electrical Engineering Student.
 
 - :iphone: Tech enthusiast. Android and iOS.
