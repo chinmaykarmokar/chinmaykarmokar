@@ -23,10 +23,10 @@
 
 <br/>
 
-<h2><i>Stack</i></h2>
+<h2>:hammer_and_pick: <i>Stack</i></h2>
 
 <div>
-  <img align="right" width="300" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif">
+  <img align="right" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif">
   <h3>Frontend</h3>
     <img src="https://img.icons8.com/officel/50/000000/react.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -42,6 +42,8 @@
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
     <br/>
   <h3>Other Tools</h3>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 </div>
 
 <br/>
@@ -49,6 +51,6 @@
 <h2>:gear: <i>Statistics</i></h2>
 
 <div>
-  <img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs hide_border">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar&layout=compact&hide=issues,contribs hide_border">
+  <img width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar&layout=compact&hide=issues,contribs&theme=radical">
 </div>
