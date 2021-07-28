@@ -1,4 +1,4 @@
-<h1 align="center">:man: Hello, I'm <i>Chinmay Karmokar</i>, & here's a bit about myself.</h1>
+<h1 align="center">:man: Hi, I'm Chinmay Karmokar, & here's a little bit about myself.</h1>
 
 <div>
   <img align="right" width="350" height="280" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
