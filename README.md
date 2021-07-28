@@ -17,6 +17,7 @@
 - :file_folder: My LinkedIn Profile: <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174">LinkedIn</a>
 
 - :star: Fun Fact: Likes Football :soccer:
-
-<img class="stats" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar">
+<div>
+  <img class="stats" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar">
+</div>
