@@ -18,4 +18,4 @@
 
 - :star: Fun Fact: Likes Football :soccer:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="My Github Stats">
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=true)
