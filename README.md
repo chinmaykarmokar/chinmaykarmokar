@@ -35,6 +35,12 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color-glass/48/000000/handlebar-mustache.png"/>
     <br/>
+  <h3>Backend and API</h3>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+    <br/>
 </div>
 
 <br/>
