@@ -19,10 +19,4 @@
 - :star: Fun Fact: Likes Football :soccer:
 
 <img class="stats" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true">
-
-<style>
-  .stats {
-    border: none,
-    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
-  }
-</style>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar)](https://github.com/anuraghazra/github-readme-stats)
