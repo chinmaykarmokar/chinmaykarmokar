@@ -1,7 +1,7 @@
 <h1 align="center">:man: Hello, I am Chinmay Karmokar, & here's a bit about myself.</h1>
 
 <div>
-  <img align="right" width="400" height="300" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
+  <img align="right" width="350" height="280" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
   - :bulb: Electrical Engineering Student.
 
 - :iphone: Tech enthusiast. Android and iOS.
@@ -21,7 +21,10 @@
 - :star: Fun Fact: Likes Football :soccer:
 </div>
 
+<br/>
+<h2><i>Statistics</i></h2>
+
 <div>
-  <img width="300" align="left" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs hide_border">
+  <img width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=chinmaykarmokar&show_icons=truecount_private=true&include_all_commits=true&hide=issues,contribs hide_border">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykarmokar&layout=compact&hide=issues,contribs hide_border">
 </div>
