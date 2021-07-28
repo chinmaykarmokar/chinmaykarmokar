@@ -43,7 +43,6 @@
     <img src="https://img.icons8.com/color/48/000000/npm.png"/> &nbsp;
     <br/>
     <h3>Other Tools</h3>
-  
 </div>
 
 <br/>
