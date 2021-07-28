@@ -18,7 +18,9 @@
 - :file_folder: My LinkedIn Profile: <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174">LinkedIn</a>
 
 - :star: Fun Fact: Likes Football :soccer:
-  <img align="right" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS"  width="30px">
+  <p>
+    <img align="right" src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?format=mp4&s=658a635332a27d9dd8835211bf58be0b25a626f8"  width="30px">
+  </p>
 </div>
 
 <div>
