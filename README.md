@@ -29,9 +29,9 @@
   <img align="right" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif">
   <h3>Frontend</h3>
     <img src="https://img.icons8.com/officel/50/000000/react.png"/>
-    <img src="https://icons8.com/icon/yUdJlcKanVbh/next.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://icons8.com/icon/wpZmKzk11AzJ/typescript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
@@ -39,7 +39,7 @@
     <br/>
   <h3>Backend and API</h3>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp;&nbsp;
-    <img src="https://icons8.com/icon/kg46nzoJrmTR/express-js"/> &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
