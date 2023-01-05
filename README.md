@@ -28,7 +28,7 @@
 <div>
   <img align="right" width="400" src="https://cdn.dribbble.com/users/644659/screenshots/1920053/dri2.gif">
   <h3>Frontend</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="8%" width="8%"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="8%" width="8%"/> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="8%" width="8%"/> &nbsp;&nbsp;
