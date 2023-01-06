@@ -18,7 +18,7 @@
 
 - :file_folder: My LinkedIn Profile: <a href="https://www.linkedin.com/in/chinmay-karmokar-b0042b174">LinkedIn</a>
 
-- :star: Fun Fact: Likes Football :soccer:
+- :star: Hobbies: Cycling :bike: and Watching Football :soccer:
 </div>
 
 <br/>
