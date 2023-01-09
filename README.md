@@ -8,7 +8,7 @@
 
 - :computer: I work with <b>JS and TS</b>.
 
-- 🌱 I’m currently learning <b>React Native</b> and trying to learn further into frontend and backend development.
+- 🌱 I’m currently learning <b>React Native</b> and trying to improve further in terms of frontend and backend development.
 
 - :email: How to reach me: chinmaykarmokar@gmail.com
 
