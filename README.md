@@ -1,4 +1,4 @@
-<h1 align="center">:man: Hi, I'm Chinmay Karmokar, & here's a little bit about myself.</h1>
+<h1 align="center">:man: Hi, I'm Chinmay, & here's a little bit about myself.</h1>
 
 <div>
   <img align="right" width="350" height="280" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
@@ -8,7 +8,7 @@
 
 - :computer: I work with <b>JS and TS</b>.
 
-- 🌱 I’m currently learning <b>Node.js</b> and I look forward to work with it.
+- 🌱 I’m currently learning <b>React Native</b> and trying to learn further into frontend and backend development.
 
 - :email: How to reach me: chinmaykarmokar@gmail.com
 
