@@ -2,7 +2,7 @@
 
 <div>
   <img align="right" width="350" height="280" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
-  - :bulb: Final Year Engineering Student.
+  - :bulb: JavaScript Web Developer.
 
 - :iphone: Tech enthusiast. Android and iOS.
 
@@ -12,7 +12,7 @@
 
 - :email: How to reach me: chinmaykarmokar@gmail.com
 
-- 🔭 I’m currently working on my very own Burger App.
+- 🔭 I’m currently working on my very own Burger App: https://burpger.vercel.app/.
 
 - :pencil: Projects: <a href="https://todobychinmay.herokuapp.com/">To Do by Chinmay</a> , <a href="https://covinfoin.herokuapp.com/">Covinfo</a> , <a href="https://chinmaykarmokar.github.io/fonts">Fonts Bay</a> , <a href="https://fightwithcovid.github.io/">Fight Covid</a> , <a href="https://chinmaykarmokar.github.io/weatherapp/">Weather</a>
 
