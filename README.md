@@ -2,11 +2,11 @@
 
 <div>
   <img align="right" width="350" height="280" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116">
-  - :bulb: JavaScript Web Developer.
+  - :bulb: Software developer.
 
 - :iphone: Tech enthusiast. Android and iOS.
 
-- :computer: I work with <b>JS and TS</b>.
+- :computer: <b>Languages: JavaScript, TypeScript, Dart(Flutter).</b>.
 
 - 🌱 I’m currently learning <b>React Native</b> and trying to improve further in terms of frontend and backend development.
 
