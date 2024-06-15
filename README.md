@@ -6,7 +6,7 @@
 
 - :iphone: Tech enthusiast. Android and iOS.
 
-- :computer: <b>Languages: JavaScript, TypeScript, Dart(Flutter).</b>.
+- :computer: <b>Languages: </b>JavaScript, TypeScript, Dart(Flutter).
 
 - 🌱 I’m currently learning <b>React Native</b> and trying to improve further in terms of frontend and backend development.
 
